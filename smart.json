@@ -1,6 +1,6 @@
 {
   "name": "jsonform",
-  "description": "",
+  "description": "provides Bootstrap-friendly HTML forms that match JSON-Schema",
   "homepage": "https://github.com/ahdinosaur/meteor-jsonform",
   "author": "Michael Williams",
   "version": "0.0.1",
